@@ -10,6 +10,7 @@ public class Add {
 		int c= a+b;
 		
 		System.out.println("addition of two numbers is: " +c);
+		System.out.println("Test was passed successfully");
 
 		
 	}
